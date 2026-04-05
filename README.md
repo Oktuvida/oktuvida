@@ -27,6 +27,15 @@ I'm the kind of software engineer who likes systems that are testable, reproduci
 
 I learn the practical way: build things, break things, inspect the ashes, improve the architecture, repeat tomorrow.
 
+## Tiny manifesto, large consequences
+
+```text
+If it cannot be tested, I do not trust it enough.
+If it can be automated, I do not want to babysit it manually.
+If it is not reproducible, it is a future bug wearing a disguise.
+If there is a good open-source alternative, I will probably investigate it.
+```
+
 ## My default operating mode
 
 - SDD, because vague vibes are not a software strategy.
@@ -44,14 +53,6 @@ Not just "look, it generated code" impressive.
 
 I mean "this thing survives contact with reality" impressive.
 
-## Selected projects from the laboratory
-
-- [Splitify](https://github.com/GH-Jaider/splitify) - co-authoring the chaos into something useful.
-- [snake-game](https://github.com/Oktuvida/snake-game) - because sometimes the classics deserve fresh code.
-- [triqui_tree](https://github.com/Oktuvida/triqui_tree) - a small idea, but with enough room for fun logic.
-- [doza-pet-app](https://github.com/Oktuvida/doza-pet-app) - pet app energy, but still engineered with intent.
-- [analysis_dataset](https://github.com/Oktuvida/analysis_dataset) - data, patterns, and the eternal hope that the dataset behaves.
-
 ## Non-technical side quests
 
 Outside of code, my brain likes to wander into:
@@ -64,15 +65,6 @@ Outside of code, my brain likes to wander into:
 
 So yes, I can go from "this pipeline should be deterministic" to "what exactly happens in 10^1000 years, heat death?" with almost no transition.
 
-## Tiny manifesto, large consequences
-
-```text
-If it cannot be tested, I do not trust it enough.
-If it can be automated, I do not want to babysit it manually.
-If it is not reproducible, it is a future bug wearing a disguise.
-If there is a good open-source alternative, I will probably investigate it.
-```
-
 ## GitHub proof that I do, in fact, press keys
 
 <div align="center">
@@ -83,18 +75,3 @@ If there is a good open-source alternative, I will probably investigate it.
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Oktuvida&hide_border=true&background=0D1117&ring=58A6FF&fire=F2CC60&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=8B949E&sideNums=C9D1D9&currStreakNum=C9D1D9" alt="GitHub streak stats" />
 </div>
-
-## If we ever collaborate
-
-You should know at least one of these things is likely true:
-
-- I will care about naming.
-- I will care about tests.
-- I will probably automate the annoying part.
-- I will probably ask whether the thing is reproducible.
-- I may also randomly mention space, psychology, or a novel with suspiciously overpowered cultivators.
-
----
-
-If you like clean systems, practical experimentation, open-source tools, and conversations that can jump from software architecture to the heat death of the universe, we will probably get along just fine.
-# oktuvida
